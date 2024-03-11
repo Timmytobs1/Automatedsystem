@@ -1,0 +1,14 @@
+C:\Users\TIMMYTOBS\Automatedsystem\obj\Debug\net8.0\Automatedsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIMMYTOBS\Automatedsystem\obj\Debug\net8.0\Automatedsystem.AssemblyInfoInputs.cache
+C:\Users\TIMMYTOBS\Automatedsystem\obj\Debug\net8.0\Automatedsystem.AssemblyInfo.cs
+C:\Users\TIMMYTOBS\Automatedsystem\obj\Debug\net8.0\Automatedsystem.csproj.CoreCompileInputs.cache
+C:\Users\TIMMYTOBS\Automatedsystem\bin\Debug\net8.0\Automatedsystem.exe
+C:\Users\TIMMYTOBS\Automatedsystem\bin\Debug\net8.0\Automatedsystem.deps.json
+C:\Users\TIMMYTOBS\Automatedsystem\bin\Debug\net8.0\Automatedsystem.runtimeconfig.json
+C:\Users\TIMMYTOBS\Automatedsystem\bin\Debug\net8.0\Automatedsystem.dll
+C:\Users\TIMMYTOBS\Automatedsystem\bin\Debug\net8.0\Automatedsystem.pdb
+C:\Users\TIMMYTOBS\Automatedsystem\obj\Debug\net8.0\Automatedsystem.dll
+C:\Users\TIMMYTOBS\Automatedsystem\obj\Debug\net8.0\refint\Automatedsystem.dll
+C:\Users\TIMMYTOBS\Automatedsystem\obj\Debug\net8.0\Automatedsystem.pdb
+C:\Users\TIMMYTOBS\Automatedsystem\obj\Debug\net8.0\Automatedsystem.genruntimeconfig.cache
+C:\Users\TIMMYTOBS\Automatedsystem\obj\Debug\net8.0\ref\Automatedsystem.dll
